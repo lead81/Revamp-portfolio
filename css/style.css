@@ -1,0 +1,33 @@
+body{
+    background: url(../img/background.jpg);
+    
+}
+p{
+    font-weight: bold;
+    color: black;
+    
+}
+label{
+    font-weight: bold;
+}
+
+.thumbnail:hover {
+    -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5);
+}
+.container {
+    display: grid;
+    height: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    justify-items: center;
+}
+.item {
+    width: 50%;
+    height: 50%;
+    
+  }
+  .btn:hover{
+      opacity: .7 ;
+  }
