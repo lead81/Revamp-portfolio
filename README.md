@@ -23,7 +23,7 @@ Portfolio of my development career
 
 ## Usage
 
-[Deployed Website](https://lead81.github.io/bootstrap-html-hw2/)
+[Deployed Website](https://lead81.github.io/Revamp-portfolio/)
 ![portfolio](./img/portfolio.PNG)
 
 ## Credits
